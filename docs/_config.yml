@@ -13,8 +13,8 @@ showinSearchEngines: true
 # Set basic server info
 serverName: SpeediBoi Network
 serverDescription: SpeediBoi Network - Where PvP Thrives and Legends Collide!
-serverIP: in6.gbnodes.store:25600
-useBedrockForOnlineStatus: true
+serverIP: sbnrk.fun
+useBedrockForOnlineStatus: false
 
 
 # Discord information
