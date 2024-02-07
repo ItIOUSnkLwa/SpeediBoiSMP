@@ -11,10 +11,10 @@ showinSearchEngines: true
 
 
 # Set basic server info
-serverName: Moonrise MC
-serverDescription: A Minecraft server where we have lots of fun!
-serverIP: 31.41.59.26:5358
-useBedrockForOnlineStatus: false
+serverName: SpeediBoi Network
+serverDescription: SpeediBoi Network: Where PvP Thrives and Legends Collide!
+serverIP: play.sbnrk.fun
+useBedrockForOnlineStatus: true
 
 
 # Discord information
