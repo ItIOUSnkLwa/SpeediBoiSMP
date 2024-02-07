@@ -4,7 +4,7 @@
 url: "https://sbnrk.fun"
 baseurl: "/"
 siteIcon: /media/android-chrome-192x192.png
-siteYear: 2020
+siteYear: 2024
 siteFooterlink: /about
 showinSearchEngines: true
 # googleAnalyticsID: (uncomment to use)
@@ -14,7 +14,7 @@ showinSearchEngines: true
 serverName: SpeediBoi Network
 serverDescription: SpeediBoi Network: Where PvP Thrives and Legends Collide!
 serverIP: play.sbnrk.fun
-useBedrockForOnlineStatus: true
+useBedrockForOnlineStatus: false
 
 
 # Discord information
