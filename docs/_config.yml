@@ -14,7 +14,7 @@ showinSearchEngines: true
 serverName: SpeediBoi Network
 serverDescription: SpeediBoi Network - Where PvP Thrives and Legends Collide!
 serverIP: play.sbnrk.fun
-useBedrockForOnlineStatus: false
+useBedrockForOnlineStatus: true
 
 
 # Discord information
